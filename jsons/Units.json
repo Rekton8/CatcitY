@@ -22,8 +22,9 @@
 		"strength": 8,
 		"cost": 40,
 		"uniques" : ["All adjacent units heal [3] HP when healing"],
-		"attackSound": "Maullido",
-	},{
+		"attackSound": "maullido"
+	},
+	{
 		"name": "Medic cat",
 		"unitType": "Sword",
 		"uniqueTo": "KittyCiv",
@@ -35,9 +36,6 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
-		"attackSound": "nonmetalhit",
-        "civilopediaText": [
-			{"text": "This is your basic, club-swinging fighter."}
-		]
+		"attackSound": "maullido"
 	},
 ]
