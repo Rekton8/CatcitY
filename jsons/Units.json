@@ -13,8 +13,22 @@
 		"attackSound": "Maullido"
 	},
 	{
-		"name": "purring cat",
+		"name": "Purring cat",
 		"unitType": "Sword",
+		"uniqueTo": "KittyCiv",
+		"requiredTech": "Animal Husbandry",
+		"obsoleteTech": "Education",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"uniques" : [],
+		"attackSound": "Maullido",
+	},{
+		"name": "Medic cat",
+		"unitType": "Sword",
+		"uniqueTo": "KittyCiv",
+		"requiredTech": "Animal Husbandry",
+		"obsoleteTech": "Education",
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
