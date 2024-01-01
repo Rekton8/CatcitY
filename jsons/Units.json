@@ -6,11 +6,11 @@
 		"replaces": "Scout",
 		"movement": 3,
 		"strength": 5,
-		"cost": 25,
+		"cost": o,
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
-		"attackSound": "Maullido"
+		"attackSound": "maullido"
 	},
 	{
 		"name": "Purring cat",
