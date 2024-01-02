@@ -21,7 +21,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Comunism",
-		"unique": ["Starts with [Order] adopted"],
+		"unique": ["Starts with [Order] adopted","All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
 		"cities": ["Xolék","Q'Persa","Q'Azul Ruso","Q'Siamés","Q'Angora Turco","Q'Siberiano","Q'Maine Coon","Q'Bengalí","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
