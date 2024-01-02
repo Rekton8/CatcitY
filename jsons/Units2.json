@@ -20,15 +20,17 @@
 		"hurryCostModifier": 20
 	},
 	{
-		"name": "Scout",
+		"name": "Munchkin",
 		"unitType": "Scout",
-		"movement": 2,
+		"uniqueTo": "KittyCiv",
+		"replaces": "Scout",
+		"movement": 3,
 		"strength": 5,
-		"cost": 25,
+		"cost": 1,
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
-		"attackSound": "nonmetalhit"
+		"attackSound": "maullido"
 	},
 	{
 		"name": "Warrior",
