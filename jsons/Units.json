@@ -135,20 +135,6 @@
             "Uncapturable", "Automation is a primary action"]
 	},
 	{
-		"name": "TrierreCat",
-		"unitType": "Melee Water",
-		"uniqueTo": "kittyCiv",
-		"replaces": "Trierreme",
-		"movement": 4,
-		"strength": 10,
-		"cost": 45,
-		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
-		"upgradesTo": "Caravel",
-		"obsoleteTech": "Astronomy",
-		"attackSound": "maullido"
-	},
-	{
 		"name": "Catrriot Archer",
 		"unitType": "Archery",
 		"uniqueTo": "kittyCiv",
