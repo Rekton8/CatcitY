@@ -4,6 +4,31 @@
 
 	/* Ancient Era */
 	{
+		"name": "Purring cat",
+		"unitType": "Sword",
+		"uniqueTo": "KittyCiv",
+		"requiredTech": "Animal Husbandry",
+		"obsoleteTech": "Education",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"uniques" : ["All adjacent units heal [3] HP when healing","May upgrade to [Medic cat]"],
+		"attackSound": "maullido"
+	},
+	{
+		"name": "Medic cat",
+		"unitType": "Sword",
+		"uniqueTo": "KittyCiv",
+		"requiredTech": "Education",
+		"movement": 2,
+		"strength": 14,
+		"cost": 85,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["All adjacent units heal [6] HP when healing"],
+		"attackSound": "maullido"
+	},
+	{
 		"name": "CatWorker",
 		"unitType": "Civilian",
 		"uniqueTo": "KittyCiv",
