@@ -1,18 +1,5 @@
 [
 	{
-		"name": "Munchkin",
-		"unitType": "Scout",
-		"uniqueTo": "KittyCiv",
-		"replaces": "Scout",
-		"movement": 3,
-		"strength": 5,
-		"cost": 1,
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost"],
-		"attackSound": "maullido"
-	},
-	{
 		"name": "Purring cat",
 		"unitType": "Sword",
 		"uniqueTo": "KittyCiv",
